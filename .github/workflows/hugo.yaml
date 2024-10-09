@@ -42,7 +42,7 @@ jobs:
       - name: Install Dart Sass
         run: choco install dart-sass -y
       - name: Checkout
-        uses: actions/checkout@v4g
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           fetch-depth: 0

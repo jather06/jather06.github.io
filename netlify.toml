@@ -3,7 +3,8 @@
   command = "hugo"
   functions = "netlify/functions"
   publish = "public"
-
+  PUPPETEER_SKIP_DOWNLOAD=true
+  
 [build.environment]
   HUGO_VERSION = "0.101.0"
 

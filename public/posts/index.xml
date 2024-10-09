@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Obdam Tuinverzorging</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Obdam Tuinverzorging</description>
+    <image>
+      <title>Obdam Tuinverzorging</title>
+      <url>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</url>
+      <link>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 13:06:49 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Wed, 09 Oct 2024 13:06:49 +0200</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd post</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 09 Oct 2024 13:06:49 +0200</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

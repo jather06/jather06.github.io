@@ -1,0 +1,57 @@
+baseURL: ""
+languageCode: en-us
+title: Obdam Tuinverzorging
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: Home
+      name: Home
+      url: /home/
+      weight: 10
+    - identifier: Over Mij
+      name: Over Mij
+      url: /over-mij/
+      weight: 20
+    - identifier: Diensten
+      name: Diensten
+      url: /diensten/
+      weight: 30
+    - identifier: Galerij
+      name: Galerij
+      url: /galerij/
+      weight: 40
+    - identifier: Tarieven
+      name: Tarieven
+      url: /tarieven/
+      weight: 50
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 60
+
+params:
+
+  homeInfoParams:
+    Title: "Welkom bij Obdam Tuinverzorging"
+    Content: | 
+
+      Bij Obdam Tuinverzorging draait alles om jouw tuinwensen. Of het nu gaat om een onderhoudsplan voor het hele jaar, het aanleggen van borders of het snoeien van struiken, wij zijn er om je te ontzorgen.
+      {{< line_break >}}
+
+      Met een persoonlijke benadering en oog voor detail zorgen wij ervoor dat jouw buitenruimte altijd in topconditie is.
+      {{< line_break >}}
+
+      Neem vandaag nog contact met ons op voor een vrijblijvend gesprek!
+      {{< line_break >}}
+
+
+      [~ **Jordhi Obdam**](/contact) - Eigenaar van Obdam Tuinverzorging
+  disableThemeToggle: false
+  images: ["/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg"]
+  assets:
+    favicon: "https://clipground.com/images/placeholder-logo-5.png"
+    favicon16x16: "https://clipground.com/images/placeholder-logo-5.png"
+    favicon32x32: "https://clipground.com/images/placeholder-logo-5.png"
+    apple_touch_icon: "https://clipground.com/images/placeholder-logo-5.png"
+    safari_pinned_tab: "https://clipground.com/images/placeholder-logo-5.png"

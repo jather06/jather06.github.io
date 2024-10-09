@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obdam Tuinverzorging</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Obdam Tuinverzorging</description>
+    <image>
+      <title>Obdam Tuinverzorging</title>
+      <url>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</url>
+      <link>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 13:06:49 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Wed, 09 Oct 2024 13:06:49 +0200</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2nd post</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 09 Oct 2024 13:06:49 +0200</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>contact</description>
+    </item>
+    <item>
+      <title>Diensten</title>
+      <link>//localhost:1313/diensten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/diensten/</guid>
+      <description>diensten</description>
+    </item>
+    <item>
+      <title>Galerij</title>
+      <link>//localhost:1313/galerij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/galerij/</guid>
+      <description>galerij</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>//localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/home/</guid>
+      <description>Home</description>
+    </item>
+    <item>
+      <title>Over Mij</title>
+      <link>//localhost:1313/over-mij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/over-mij/</guid>
+      <description>over mij</description>
+    </item>
+    <item>
+      <title>Tarieven</title>
+      <link>//localhost:1313/tarieven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tarieven/</guid>
+      <description>tarieven</description>
+    </item>
+  </channel>
+</rss>

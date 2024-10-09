@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Obdam Tuinverzorging</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Obdam Tuinverzorging</description>
+    <image>
+      <title>Obdam Tuinverzorging</title>
+      <url>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</url>
+      <link>//localhost:1313/img/garden_with_flowers_and_green_plants_hd_garden-1920x1080-66024473.jpg</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
